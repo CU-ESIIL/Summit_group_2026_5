@@ -62,26 +62,18 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| | | | |
+| Dusty Gannon | Oregon State University | dustin.gannon@oregonstate.edu | Dusty-Gannon |
 | | | | |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
-!!! note "Day 1 task"
-
-    Suggested Self-Facilitation Instructions:
-    
-    - Round Robin: Everyone shares 1 norm that they think will be important for their team during the Summit and perhaps following the Summit (2 min).
-
-    - After everyone has shared, make a list with as many norms as possible in GitHub (5–7 min).
-
-    - Vote on your top 3 ideas. (Each person gets 3 votes; you can use all your votes on 1 idea or spread them out) (2 min).
-
-    - In GitHub, move all team norms with votes to the top of the list.
 
     | Gradients of agreement | 
     |---|
-    | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
+    | Love it! ❤️ | one finger |
+    | Like it 👍 | two fingers |
+    | Live with it 🤷‍♀️ | three fingers |
+    | Loathe it 🚫 | four fingers |
 
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_5/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
