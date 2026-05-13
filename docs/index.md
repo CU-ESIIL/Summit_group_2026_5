@@ -67,13 +67,12 @@ public_mode_toggle: true
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
-
-    | Gradients of agreement | 
-    |---|
-    | Love it! ❤️ | one finger |
-    | Like it 👍 | two fingers |
-    | Live with it 🤷‍♀️ | three fingers |
-    | Loathe it 🚫 | four fingers |
+| Gradients of agreement | |
+|---|---|
+| Love it! ❤️ | one finger |
+| Like it 👍 | two fingers |
+| Live with it 🤷‍♀️ | three fingers |
+| Loathe it 🚫 | four fingers |
 
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_5/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
@@ -85,7 +84,8 @@ Our team norms:
 
 Our decision making strategy:
 
-...
+- Call for vote
+- Hold fingers up to indicate agreement on scale above
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
