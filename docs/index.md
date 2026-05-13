@@ -78,9 +78,18 @@ public_mode_toggle: true
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- Single slack channel, communicate over slack by @ing.
+- Some test cases (depth) may illustrate the inventory (breadth) group, but they do not have to be shared in the larger paper (it is okay to keep your case study independent)
+- Step up, step back / even turn taking
+
+AI norms:
+
+- Research/exploration
+- Code snippets and claude code/codex/copilot ok (don't give sensitive data)
+    - Prefer claude, gemini, cyverse and copilot with anthropic activated, if possible
+- Editing/polishing/reviewing work (read after the edit)
+- Create documentation like READMEs
+- Not for first pass writing of papers
 
 Our decision making strategy:
 
@@ -126,38 +135,26 @@ Our working question:
 
 What would count as progress:
 
-...
-
-## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
-
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
-This matters because:
+**This matters because**:
+- Embeddings could help with generalizability, reproducibility, and simplifying workflows, but we still need to know when and where they work well and when and where they don't.
 
-...
+**People who could use this**:
 
-People who could use this:
-
-...
+- Land managers
+- Environmental data scientists
+- Embeddings developers
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "data exploration"
-    Provide a snapshot showing some initial data patterns. 
-
-    Add 2-4 promising data sources (links +1-line notes)    
-
-![Exploration figure](assets/explorations/explore_data_plot.png)
-
-*Snapshot showing initial data patterns.*
-
 Promising data sources:
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
-- [Data source 4](#): ...
+- [Data source 1](#): [HJA Andrews Experimental Forest](https://andrewsforest.oregonstate.edu/data/map)
+- [Data source 2](#): [Ag Plastics Data](https://zenodo.org/records/18500698)
+- [Data source 3](#): [Lantern fly data](https://github.com/ieco-lab/lydemapr)
+- [Data source 4](#): Brian's data
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -170,9 +167,9 @@ Methods/technologies we are testing:
 
 | Method or technology | What we tested | Early note |
 |---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
+| AlphaEarth | ... | ... |
+| Prithvi | ... | ... |
+| MOSAIKS | ... | ... |
 | ... | ... | ... |
 
 ### Challenges identified
