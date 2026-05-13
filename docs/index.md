@@ -64,6 +64,7 @@ public_mode_toggle: true
 |---|---|---|---|
 | Dusty Gannon | Oregon State University | dustin.gannon@oregonstate.edu | Dusty-Gannon |
 | Keqi He | Virginia Institute of Marine Science | khe@vims.edu | hkqcqq |
+| Annie Taylor | The Nature Conservancy | annie.taylor@tnc.org | annietaylor |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
