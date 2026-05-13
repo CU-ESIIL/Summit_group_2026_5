@@ -63,7 +63,7 @@ public_mode_toggle: true
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
 | Dusty Gannon | Oregon State University | dustin.gannon@oregonstate.edu | Dusty-Gannon |
-| | | | |
+| Keqi He | Virginia Institute of Marine Science | khe@vims.edu | hkqcqq |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
