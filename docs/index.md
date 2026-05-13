@@ -68,7 +68,7 @@ public_mode_toggle: true
 | Levi "Veevee" Cai | Univ. of Colorado, Boulder | levi.cai@colorado.edu | arizonat |
 | Brian Lee | Univ. of Colorado, Boulder | brian.lee-4@colorado.edu | bhyleee |
 | Matthew Helmus | Temple University | mrhelmus@temple.edu | mrhelmus |
-| Ria Gupta |---|---|---|
+| Ria Gupta |Simon Fraser University, Burnaby, Canada | riagupta312@gmail.com | riaongreatlearning-hub |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
