@@ -67,6 +67,8 @@ public_mode_toggle: true
 | Annie Taylor | The Nature Conservancy | annie.taylor@tnc.org | annietaylor |
 | Levi "Veevee" Cai | Univ. of Colorado, Boulder | levi.cai@colorado.edu | arizonat |
 | Brian Lee | Univ. of Colorado, Boulder | brian.lee-4@colorado.edu | bhyleee |
+| Matthew Helmus | Temple University | mrhelmus@temple.edu | mrhelmus |
+| Ria Gupta |---|---|---|
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
