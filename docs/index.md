@@ -129,7 +129,7 @@ Our working question:
 
 - Annie: Predicting plastic mulch use across space
 
-- "Ghost forest" land cover classification using embedding features
+- Keqi: "Ghost forest" land cover classification using embedding features
 
 - Veevee: Tool development for evaluating foundation models for specific tasks
 
@@ -179,7 +179,7 @@ Methods/technologies we are testing:
 
 ### Visuals
 
-![Method or workflow visual](assets/figures/figure1.png)
+![Method or workflow visual](assets/team/GhostForest_AlphaEarth.png)
 
 ### Next Steps
 
