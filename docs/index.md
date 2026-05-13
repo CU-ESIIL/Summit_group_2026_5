@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 5 Home: Make Me Your Own
+# Embedders (depth)
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
@@ -98,8 +98,11 @@ Library of notebooks illustrating different use cases and workflows.
 
 Long term:
 
-- ...
-- ...
+- Comparison of different embeddings across use cases and comparison to traditional ML approaches
+- Test case specific products including:
+      - Benchmarking toolkit
+      - Site selection tool
+      - Domain-specific papers
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
