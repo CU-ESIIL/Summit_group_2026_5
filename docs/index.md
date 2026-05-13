@@ -180,6 +180,7 @@ Methods/technologies we are testing:
 
 ### Visuals
 
+Potential "Ghost Forest" locations (Similarity Analysis using Alpha Earth)
 ![Method or workflow visual](assets/team/GhostForest_AlphaEarth.png)
 
 ### Next Steps
