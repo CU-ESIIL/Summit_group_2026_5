@@ -89,16 +89,12 @@ Our decision making strategy:
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "Day 2 Tasks"
-    Morning Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes)
-
-    Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test. 
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_5/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
 Short term:
 
-...
+Library of notebooks illustrating different use cases and workflows.
 
 Long term:
 
@@ -113,7 +109,17 @@ Long term:
 
 Our working question:
 
-...
+- Brian:
+
+- Matthew: Risk mapping of a novel pest
+
+- Dusty: Counterfactual / control site selection based on similarity in embedding space
+
+- Annie: Predicting plastic mulch use across space
+
+- "Ghost forest" land cover classification using embedding features
+
+- Veevee: Tool development for evaluating foundation models for specific tasks
 
 What would count as progress:
 
