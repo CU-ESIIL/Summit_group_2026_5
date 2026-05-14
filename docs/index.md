@@ -229,6 +229,9 @@ Long term:
 
 ![Story visual](assets/figures/slfrisk.png)
 
+*Visual 4: Land classification through unsupervised and supervised learning on AlphaEarthEmbeddings.*
+
+
 *Pre-existing geospatial AI benchmarks*
 
 | Benchmark/pipelines | Problem types | URL |
