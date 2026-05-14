@@ -209,17 +209,9 @@ Long term:
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — what, where, how much
+- **Headline 1**: Embedding space similarity could be useful for selecting control/comparison sites in natural experiments
 
-...
-
-Headline 2 — change/trend/contrast
-
-...
-
-Headline 3 — implication for practice or policy
-
-...
+![dusty image](assets/figures/burn_site_similarity.png)
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
