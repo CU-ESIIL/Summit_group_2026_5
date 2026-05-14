@@ -231,6 +231,10 @@ Long term:
 
 *Visual 4: Land classification through unsupervised and supervised learning on AlphaEarthEmbeddings.*
 
+![Ria visual](assets/figures/alphaearth_clusters.png)
+
+![Ria visual](assets/figures/alphaearth_landcover.png)
+
 
 *Pre-existing geospatial AI benchmarks*
 
