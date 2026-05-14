@@ -236,6 +236,14 @@ Long term:
 ![Ria visual](assets/figures/alphaearth_landcover.png)
 Future: Extend this to wasteland detection research.
 
+*Visual 5: Agricultural plastics classification augmented with embeddings generated with the Prithvi-EO-2.0 model*
+- Developed a draft script to generate embeddings with Prithvi-EO-2.0 model
+- Next steps: get the script working, run a RF classification
+
+Example classification with RS/ML approach (no embeddings):
+![at-figure](assets/figures/AgPlastics_ClassificationResults.jpg)
+
+
 *Pre-existing geospatial AI benchmarks*
 
 | Benchmark/pipelines | Problem types | URL |
