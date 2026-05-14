@@ -213,19 +213,32 @@ Long term:
 
 ![dusty image](assets/figures/burn_site_similarity.png)
 
-## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
+![dusty image](assets/figures/lookout_fire.jpg)
 
-![Story visual](assets/figures/Global_Similarity.png)
+## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 *Visual 1: Similarity of a reference "Ghost Forest" pixel.*
 
-![Story visual](assets/figures/slfdata.png)
+![Story visual](assets/figures/Global_Similarity.png)
 
 *Visual 2: Spotted Lanternfly data.*
 
-![Story visual](assets/figures/slfrisk.png)
+![Story visual](assets/figures/slfdata.png)
 
 *Visual 3: Spotted Lanternfly risk.*
+
+![Story visual](assets/figures/slfrisk.png)
+
+*Pre-existing geospatial AI benchmarks*
+
+| Benchmark/pipelines | Problem types | URL |
+|---|---|---|
+| TorchGeo | Overall geospatial pipelines | https://github.com/torchgeo/torchgeo |
+| GeoBench | Classification, Segmentation | https://github.com/servicenow/geo-bench |
+| OceanBench | Regression | https://github.com/mercator-ocean/oceanbench |
+| SustainBench | Classification, Segmentation, Regression | https://github.com/sustainlab-group/sustainbench/ |
+| AiTlas | Classification, Detection | https://aitlas.readthedocs.io/en/latest/ |
+| EarthNets | Classification, Segmentation, Change detection| https://earthnets.github.io/ |
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
