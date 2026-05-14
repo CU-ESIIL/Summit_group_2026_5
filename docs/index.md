@@ -211,9 +211,9 @@ Long term:
 
 - **Headline 1**: Embedding space similarity could be useful for selecting control/comparison sites in natural experiments
 
-![dusty image](assets/figures/burn_site_similarity.png)
-
 ![dusty image](assets/figures/lookout_fire.jpg)
+
+![dusty image](assets/figures/burn_site_similarity.png)
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
