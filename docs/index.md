@@ -234,7 +234,7 @@ Long term:
 ![Ria visual](assets/figures/alphaearth_clusters.png)
 
 ![Ria visual](assets/figures/alphaearth_landcover.png)
-
+Future: Extend this to wasteland detection research.
 
 *Pre-existing geospatial AI benchmarks*
 
