@@ -227,6 +227,14 @@ Headline 3 — implication for practice or policy
 
 *Visual 1: Similarity of a reference "Ghost Forest" pixel.*
 
+![Story visual](assets/figures/slfdata.png)
+
+*Visual 2: Spotted Lanternfly data.*
+
+![Story visual](assets/figures/slfrisk.png)
+
+*Visual 3: Spotted Lanternfly risk.*
+
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
 Short term:
