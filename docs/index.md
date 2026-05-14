@@ -223,9 +223,9 @@ Headline 3 — implication for practice or policy
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-![Story visual](assets/figures/main_result.png)
+![Story visual](assets/figures/Global_Similarity.png)
 
-*Visual 1: the main pattern or output we want people to remember.*
+*Visual 1: Similarity of a reference "Ghost Forest" pixel.*
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
