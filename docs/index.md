@@ -137,6 +137,8 @@ Our working question:
 - Keqi: "Ghost forest" land cover classification using embedding features
 
 - Veevee: Tool development for evaluating foundation models for specific tasks
+  
+- Ria: Land classification
 
 What would count as progress:
 
